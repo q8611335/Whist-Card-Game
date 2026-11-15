@@ -1,0 +1,15 @@
+[Round 1] Trump: CLUBS
+[Round 1][Player 3] Plays: SPADES-TEN source=RANDOM
+[Round 1][Player 0] Plays: CLUBS-SEVEN source=HUMAN
+[Round 1][Player 1] Plays: CLUBS-KING source=AI
+[Round 1][Player 2] Plays: SPADES-KING source=RANDOM
+[Round 1] Winner: Player 1
+[Round 1] Scores: P0=0,P1=1,P2=0,P3=0
+[Round 2] Trump: CLUBS
+[Round 2][Player 1] Plays: HEARTS-KING source=AI
+[Round 2][Player 2] Plays: CLUBS-FIVE source=RANDOM
+[Round 2][Player 3] Plays: HEARTS-SIX source=RANDOM
+[Round 2][Player 0] Plays: CLUBS-TEN source=HUMAN
+[Round 2] Winner: Player 0
+[Round 2] Scores: P0=1,P1=1,P2=0,P3=0
+[Round 3] Trump: CLUBS

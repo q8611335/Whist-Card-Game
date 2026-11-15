@@ -1,0 +1,22 @@
+[Round 1] Trump: HEARTS
+[Round 1][Player 0] Plays: CLUBS-KING source=RANDOM
+[Round 1][Player 1] Plays: CLUBS-TWO source=AI_FALLBACK
+[Round 1][Player 2] Plays: CLUBS-TEN source=RANDOM
+[Round 1][Player 3] Plays: HEARTS-JACK source=RANDOM
+[Round 1] Winner: Player 3
+[Round 1] Scores: P0=0,P1=0,P2=0,P3=1
+[Round 2] Trump: HEARTS
+[Round 2][Player 3] Plays: CLUBS-JACK source=RANDOM
+[Round 2][Player 0] Plays: CLUBS-QUEEN source=RANDOM
+[Round 2][Player 1] Plays: CLUBS-ACE source=AI_FALLBACK
+[Round 2][Player 2] Plays: CLUBS-NINE source=RANDOM
+[Round 2] Winner: Player 1
+[Round 2] Scores: P0=0,P1=1,P2=0,P3=1
+[Round 3] Trump: HEARTS
+[Round 3][Player 1] Plays: SPADES-ACE source=AI
+[Round 3][Player 2] Plays: HEARTS-ACE source=RANDOM
+[Round 3][Player 3] Plays: DIAMONDS-JACK source=RANDOM
+[Round 3][Player 0] Plays: DIAMONDS-KING source=RANDOM
+[Round 3] Winner: Player 2
+[Round 3] Scores: P0=0,P1=1,P2=1,P3=1
+GameOver Winner: Player 2
